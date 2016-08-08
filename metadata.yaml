@@ -1,0 +1,28 @@
+_repo: Creation-and-Its-Records--13-A-Brief-Statement-of-Christian-Belief-with-Reference-to-Modern-F__12852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baden-Powell, B. H. (Baden Henry)
+    alias: Baden-Powell, Baden Henry
+    birthdate: 1841
+    deathdate: 1901
+    gutenberg_agent_id: '4670'
+    url: http://www.gutenberg.org/2009/agents/4670
+description: ''
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creation'
+- !lcc 'BL'
+- !lcsh 'Religion and science'
+- !lcsh 'Bible and science'
+- GITenberg
+title: "Creation and Its Records\r\nA Brief Statement of Christian Belief with Reference\
+  \ to Modern Facts and Ancient Scripture"
+url: http://www.gutenberg.org/ebooks/12852
