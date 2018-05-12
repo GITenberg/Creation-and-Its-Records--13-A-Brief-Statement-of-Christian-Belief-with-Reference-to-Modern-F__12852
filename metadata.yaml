@@ -1,5 +1,8 @@
 _repo: Creation-and-Its-Records--13-A-Brief-Statement-of-Christian-Belief-with-Reference-to-Modern-F__12852
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baden-Powell, B. H. (Baden Henry)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4670'
     url: http://www.gutenberg.org/2009/agents/4670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12852#Creation-and-Its-Records--13-A-Brief-Statement-of-Christian-Belief-with-Reference-to-Modern-F_
 gutenberg_issued: '2004-07-08'
 gutenberg_type: Text
 identifiers:
